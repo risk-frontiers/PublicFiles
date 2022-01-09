@@ -1,1 +1,1 @@
-you've been pawned
+echo "you've been pawned"
